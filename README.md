@@ -9,7 +9,7 @@ Objective: Create a simple and efficient platform for organizing carpooling trip
 
 Technologies used: JEE, Java, Servlets, JSP, HTML, CSS
 
-Course: Object-Oriented Programming
+Course: Object-Oriented Programming (Java)
 
 ## Authors
 
