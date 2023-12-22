@@ -6,7 +6,9 @@ This project is a JEE web application designed to make it easier to connect peop
 ## About the project
 
 Objective: Create a simple and efficient platform for organizing carpooling trips.
+
 Technologies used: JEE, Java, Servlets, JSP, HTML, CSS
+
 Course: Object-Oriented Programming
 
 ## Authors
